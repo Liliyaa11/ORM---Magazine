@@ -10,7 +10,7 @@ namespace ORM___Magazine.Model
 {
     internal class StoreDbContext : DbContext
     {
-        DbSet<Products> Products { get; set; }
+        DbSet<Product> Products { get; set; }
         DbSet<ProductType> ProductTypes { get; set; }
         public StoreDbContext() : base("StoreDbContext")
         {

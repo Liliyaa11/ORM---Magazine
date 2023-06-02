@@ -10,6 +10,6 @@ namespace ORM___Magazine.Model
     {
         public int Id { get; set; }
         public string TypeName { get; set; }
-        ICollection<Products>Products { get; set; }
+        ICollection<Product>Products { get; set; }
     }
 }

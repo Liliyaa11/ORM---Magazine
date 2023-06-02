@@ -58,7 +58,7 @@
       <DependentUpon>202306020803135_Migration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Model\Products.cs" />
+    <Compile Include="Model\Product.cs" />
     <Compile Include="Model\ProductType.cs" />
     <Compile Include="Model\StoreDbContext.cs" />
     <Compile Include="Program.cs" />

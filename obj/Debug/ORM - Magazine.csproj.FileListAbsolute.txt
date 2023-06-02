@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\bin\Debug\ORM - Magazine.exe.config
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\bin\Debug\ORM - Magazine.exe
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\bin\Debug\ORM - Magazine.pdb
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\obj\Debug\ORM - Magazine.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\obj\Debug\ORM - Magazine.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\obj\Debug\ORM - Magazine.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\obj\Debug\ORM - Magazine.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\obj\Debug\ORM - Magazine.exe
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\obj\Debug\ORM - Magazine.pdb
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\obj\Debug\ORM___Magazine.Migrations.Migration.resources
+C:\Users\STUDENTS-STEM-13\Desktop\11aRS\ORM - Magazine\ORM - Magazine\obj\Debug\ORM - Magazine.csproj.GenerateResource.cache

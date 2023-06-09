@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ORM___Magazine.Model
 {
-    internal class ProductType
+    public class ProductType
     {
         public int Id { get; set; }
         public string TypeName { get; set; }

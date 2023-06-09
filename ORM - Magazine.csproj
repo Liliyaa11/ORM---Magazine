@@ -45,6 +45,8 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -53,6 +55,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\ProductLogic.cs" />
+    <Compile Include="Controller\ProductTypeLogic.cs" />
+    <Compile Include="Magazin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Magazin.Designer.cs">
+      <DependentUpon>Magazin.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\202306020803135_Migration.cs" />
     <Compile Include="Migrations\202306020803135_Migration.designer.cs">
       <DependentUpon>202306020803135_Migration.cs</DependentUpon>
@@ -69,10 +79,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controller\" />
     <Folder Include="View\" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Magazin.resx">
+      <DependentUpon>Magazin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202306020803135_Migration.resx">
       <DependentUpon>202306020803135_Migration.cs</DependentUpon>
     </EmbeddedResource>

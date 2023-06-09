@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace ORM___Magazine.Model
 {
-    internal class StoreDbContext : DbContext
+    public class StoreDbContext : DbContext
     {
-        DbSet<Product> Products { get; set; }
-        DbSet<ProductType> ProductTypes { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<ProductType> ProductTypes { get; set; }
         public StoreDbContext() : base("StoreDbContext")
         {
 

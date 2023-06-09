@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ORM___Magazine.Model
 {
-    internal class Product
+    public class Product
     {
         public int Id { get; set; }
         public string Brand { get; set; }

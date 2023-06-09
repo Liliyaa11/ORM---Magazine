@@ -11,7 +11,7 @@ namespace ORM___Magazine.Controller
     public class ProductTypeLogic
     {
         private StoreDbContext _storeDbContext = new StoreDbContext();
-        public List<ProductType> GetAllBreeds()
+        public List<ProductType> GetAllProductTypes()
         {
             return _storeDbContext.ProductTypes.ToList();
         }
